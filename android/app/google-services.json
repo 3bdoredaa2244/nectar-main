@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "355483350178",
+    "project_id": "nectar-a5cc2",
+    "storage_bucket": "nectar-a5cc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355483350178:android:1e894223fe0868855453fb",
+        "android_client_info": {
+          "package_name": "com.example.nectar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355483350178-gto42om4c1co4rdq093sbvd41lnkp6gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY-rNwsWle3nU5wo-TMH03j056OhKjjJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355483350178-gto42om4c1co4rdq093sbvd41lnkp6gm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355483350178-39b82c23mu7aom49c17qra78d0shhaf5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nectar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
